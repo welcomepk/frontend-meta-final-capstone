@@ -18,3 +18,11 @@ This project was developed with the following technologies:
 - Git and Github
 - Figma
 
+
+<h2 id="instructions to run the project">🚀 Instructions</h2>
+- clone the repo
+- open cmd/terminal from root directory
+- hit command "npm install"
+- to execute "npm run dev"
+
+
