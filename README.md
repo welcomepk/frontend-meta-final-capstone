@@ -20,9 +20,9 @@ This project was developed with the following technologies:
 
 
 <h2 id="instructions to run the project">🚀 Instructions</h2>
-- clone the repo
-- open cmd/terminal from root directory
-- hit command "npm install"
-- to execute "npm run dev"
+<li> clone the repo </li>
+<li> open cmd/terminal from root directory </li>
+<li> hit command "npm install" </li>
+<li> to execute "npm run dev" </li>
 
 
